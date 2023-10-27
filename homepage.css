@@ -1,0 +1,18 @@
+body {
+    background-image: url("shrek\ .jpg");
+}
+
+h1 {
+    margin-left: 30%;
+    color: aliceblue;
+}
+
+input ,ul{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+ul {
+    color :aliceblue
+}
+
